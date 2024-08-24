@@ -27,17 +27,10 @@
 .contact:link{
     color: yellow;
 }
-#popup-overlay{
-    background-color: black;
-    width: 100%;
-    height: 100%;
-    z-index: 3;
-}
-
 .foot{
-        font-family: "Style Script", cursive;
         font-weight: 500;
         color: rgb(0, 121, 111);
         font-style: normal;
         text-align: center;
+        font-family: "Dancing Script", cursive;
 }
